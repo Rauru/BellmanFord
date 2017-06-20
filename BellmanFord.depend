@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1497988865 source:d:\clases\bellmanford\bellmanford\main.cpp
+	"Test.h"
+	<iostream>
+	<limits>
+	<stdexcept>
+
+1497988865 d:\clases\bellmanford\bellmanford\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1497988865 source:d:\clases\bellmanford\bellmanford\test.cpp
+	"Test.h"
+
